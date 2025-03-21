@@ -1,0 +1,766 @@
+<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+
+<head>
+<meta name="WebPartPageExpansion" content="full" />
+
+	<link
+		href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+		rel="stylesheet">
+
+	<style type="text/css">
+		.body {
+			font-family: "Raleway", sans-serif;
+		}
+
+		.style1 {
+			font-family: Verdana;
+			font-size: small;
+		}
+
+		.style2 {
+			text-align: left;
+		}
+
+		.style3 {
+			text-align: center;
+		}
+
+		.style4 {
+			border-bottom: 1px solid #000000;
+			text-align: center;
+		}
+
+		.style5 {
+			text-align: center;
+			border-right-style: solid;
+			border-right-width: 1px;
+		}
+
+		.style6 {
+			border: 1px solid #000000;
+			font-family: "Raleway", sans-serif;
+			font-size: small;
+		}
+
+		.style8 {
+			border-left: 1px solid #000000;
+			border-bottom: 1px solid #000000;
+			border-right-color: #000000;
+			border-top-color: #000000;
+		}
+
+		.style9 {
+			border-right-style: solid;
+			border-right-width: 1px;
+			border-bottom-style: solid;
+			border-bottom-width: 1px;
+		}
+
+		.style10 {
+			text-align: center;
+			border-bottom-style: solid;
+			border-bottom-width: 1px;
+		}
+
+		.style11 {
+			border-bottom-style: solid;
+			border-bottom-width: 1px;
+		}
+
+		.style14 {
+			border-color: #000000;
+			border-left-style: solid;
+			border-left-color: #000000;
+			border-left-width: 1px;
+			border-top-style: solid;
+			border-top-width: 1px;
+		}
+
+		.style15 {
+			border-color: #000000;
+			border-right-style: solid;
+			border-right-width: 1px;
+			border-top-style: solid;
+			border-top-width: 1px;
+		}
+
+		.style17 {
+			border-left-style: solid;
+			border-left-width: 1px;
+			border-color: #000000;
+		}
+
+		.style18 {
+			text-align: center;
+			border-right-style: solid;
+			border-right-width: 1px;
+			border-top-style: solid;
+			border-top-width: 1px;
+		}
+
+		.style19 {
+			border-left: 1px solid #000000;
+			border-top: 1px solid #000000;
+			border-right-color: #000000;
+			border-bottom-color: #000000;
+		}
+
+		.style20 {
+			text-align: center;
+			background-color: #00A499;
+		}
+
+		.style22 {
+			text-align: center;
+			color: #FFFFFF;
+			font-family: "Raleway", sans-serif;
+			background-color: #00A499;
+		}
+
+		.style23 {
+			font-size: large;
+		}
+
+		.style24 {
+			font-size: medium;
+		}
+
+		.style25 {
+			font-family: "Raleway", sans-serif;
+			font-size: x-small;
+		}
+	</style>
+
+
+</head>
+
+<body>
+
+
+
+	<div class="style2">
+
+
+
+		<table class="style1" align="center" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="height: 44px">Turno</td>
+				<td style="height: 44px">Engenheiro</td>
+				<td style="height: 44px; ">Supervisor</td>
+				<td style="height: 44px; ">Operador 1</td>
+				<td style="height: 44px; ">Operador 2</td>
+				<td style="height: 44px; ">Operador 3</td>
+				<td style="height: 44px; ">Operador 4</td>
+				<td style="height: 44px; ">Operador 5</td>
+			</tr>
+			<tr>
+				<td style="height: 46px">
+
+					<select id="turno" size="1" value="" name="D8" style="width: 115">
+						<option value="07 x 16">07 x 16</option>
+						<option value="14 x 23">14 x 23</option>
+						<option value="23 x 07">23 x 07</option>
+					</select></td>
+				<td style="height: 46px">
+
+					<select id="engenheiro" size="1" name="D1" style="width: 115">
+						<option value='01_desc.jpg' selected>Indispon&iacute;vel</option>
+						<option value='4003964.jfif'>Diogo</option>
+						<option value='4010916.jfif'>Iago</option>
+						<option value='4008025.jfif'>Josué</option>
+						<option value='4002703.jfif'>Nayara</option>
+						<option value='4010386.jfif'>Pedro</option>
+					</select></td>
+				<td style="height: 46px; ">
+					<select id="supervisor" size="1" name="D2" style="width: 115">
+						<option value='01_desc.jpg' selected>Indispon&iacute;vel</option>
+						<option value='3148580.jfif'>Almeida</option>
+						<option value='3133834.jfif'>Gerson</option>
+						<option value='3149420.png'>Levi</option>
+						<option value='3133389.jfif'>M&aacute;rcio</option>
+						<option value='3151174.jfif'>Renato</option>
+					</select></td>
+				<td style="height: 46px; ">
+					<select id="operador1" size="1" name="D3">
+						<option value='01_desc.jpg' selected>Indispon&iacute;vel</option>
+						<option value='3148580.jfif'>Almeida</option>
+						<option value='4002353.jfif'>Brito</option>
+						<option value='4003154.jfif'>Carlos Eduardo</option>
+						<option value='4008452.png'>Cleyton</option>
+						<option value='4001677.jfif'>Correia</option>
+						<option value='4010261.jfif'>Daniel</option>
+						<option value='4002048.jfif'>Erique</option>
+						<option value='4005712.jfif'>Everton</option>
+						<option value='3133834.jfif'>Gerson</option>
+						<option value='4002309.jfif'>Gimenes</option>
+						<option value='4009760.jfif'>Leonardo</option>	
+						<option value='3149420.png'>Levi</option>
+						<option value='3133389.jfif'>M&aacute;rcio</option>
+						<option value='4003446.jfif'>Naciff</option>
+						<option value='4010458.jfif'>Patrick</option>
+						<option value='3151174.jfif'>Renato</option>
+						<option value='4008024.jfif'>Silva</option>					
+					</select></td>
+				<td style="height: 46px; ">
+					<select id="operador2" size="1" name="D4">
+						<option value='01_desc.jpg' selected>Indispon&iacute;vel</option>
+						<option value='3148580.jfif'>Almeida</option>
+						<option value='4002353.jfif'>Brito</option>
+						<option value='4003154.jfif'>Carlos Eduardo</option>
+						<option value='4008452.png'>Cleyton</option>
+						<option value='4001677.jfif'>Correia</option>
+						<option value='4010261.jfif'>Daniel</option>
+						<option value='4002048.jfif'>Erique</option>
+						<option value='4005712.jfif'>Everton</option>
+						<option value='3133834.jfif'>Gerson</option>
+						<option value='4002309.jfif'>Gimenes</option>
+						<option value='4009760.jfif'>Leonardo</option>	
+						<option value='3149420.png'>Levi</option>
+						<option value='3133389.jfif'>M&aacute;rcio</option>
+						<option value='4003446.jfif'>Naciff</option>
+						<option value='4010458.jfif'>Patrick</option>
+						<option value='3151174.jfif'>Renato</option>
+						<option value='4008024.jfif'>Silva</option>
+					</select></td>
+
+				<td style="height: 46px; ">
+					<select id="operador3" size="1" name="D5">
+						<option value='01_desc.jpg' selected>Indispon&iacute;vel</option>
+						<option value='3148580.jfif'>Almeida</option>
+						<option value='4002353.jfif'>Brito</option>
+						<option value='4003154.jfif'>Carlos Eduardo</option>
+						<option value='4008452.png'>Cleyton</option>
+						<option value='4001677.jfif'>Correia</option>
+						<option value='4010261.jfif'>Daniel</option>
+						<option value='4002048.jfif'>Erique</option>
+						<option value='4005712.jfif'>Everton</option>
+						<option value='3133834.jfif'>Gerson</option>
+						<option value='4002309.jfif'>Gimenes</option>
+						<option value='4009760.jfif'>Leonardo</option>	
+						<option value='3149420.png'>Levi</option>
+						<option value='3133389.jfif'>M&aacute;rcio</option>
+						<option value='4003446.jfif'>Naciff</option>
+						<option value='4010458.jfif'>Patrick</option>
+						<option value='3151174.jfif'>Renato</option>
+						<option value='4008024.jfif'>Silva</option>
+					</select></td>
+				<td style="height: 46px; ">
+					<select id="operador4" size="1" name="D6">
+						<option value='01_desc.jpg' selected>Indispon&iacute;vel</option>
+						<option value='3148580.jfif'>Almeida</option>
+						<option value='4002353.jfif'>Brito</option>
+						<option value='4003154.jfif'>Carlos Eduardo</option>
+						<option value='4008452.png'>Cleyton</option>
+						<option value='4001677.jfif'>Correia</option>
+						<option value='4010261.jfif'>Daniel</option>
+						<option value='4002048.jfif'>Erique</option>
+						<option value='4005712.jfif'>Everton</option>
+						<option value='3133834.jfif'>Gerson</option>
+						<option value='4002309.jfif'>Gimenes</option>
+						<option value='4009760.jfif'>Leonardo</option>	
+						<option value='3149420.png'>Levi</option>
+						<option value='3133389.jfif'>M&aacute;rcio</option>
+						<option value='4003446.jfif'>Naciff</option>
+						<option value='4010458.jfif'>Patrick</option>
+						<option value='3151174.jfif'>Renato</option>
+						<option value='4008024.jfif'>Silva</option>
+					</select></td>
+				<td style="height: 46px; ">
+					<select id="operador5" size="1" name="D7">
+						<option value='01_desc.jpg' selected>Indispon&iacute;vel</option>
+						<option value='3148580.jfif'>Almeida</option>
+						<option value='4002353.jfif'>Brito</option>
+						<option value='4003154.jfif'>Carlos Eduardo</option>
+						<option value='4008452.png'>Cleyton</option>
+						<option value='4001677.jfif'>Correia</option>
+						<option value='4010261.jfif'>Daniel</option>
+						<option value='4002048.jfif'>Erique</option>
+						<option value='4005712.jfif'>Everton</option>
+						<option value='3133834.jfif'>Gerson</option>
+						<option value='4002309.jfif'>Gimenes</option>
+						<option value='4009760.jfif'>Leonardo</option>	
+						<option value='3149420.png'>Levi</option>
+						<option value='3133389.jfif'>M&aacute;rcio</option>
+						<option value='4003446.jfif'>Naciff</option>
+						<option value='4010458.jfif'>Patrick</option>
+						<option value='3151174.jfif'>Renato</option>
+						<option value='4008024.jfif'>Silva</option>
+					</select></td>
+			</tr>
+			<tr>
+				<td style="height: 46px" colspan="8" class="style3" valign="middle">
+
+
+
+
+
+					<button onclick="myFunction()" type="button">Gerar Mensagem</button>
+
+				</td>
+			</tr>
+		</table>
+
+		<br>
+
+
+
+		<table class="style6" align="center" cellspacing="0" cellpadding="0" style="width: 706px">
+			<tr>
+				<td class="style3" colspan="10" style="height: 72px">
+					<table style="width: 717px; height: 89px" align="center" cellspacing="0" cellpadding="0">
+						<tr>
+							<td style="width: px" class="style20"><img alt="" src="light.png"></td>
+							<td class="style22"><strong><span class="style23">Centro de Opera&ccedil;&atilde;o da
+										Alta Tens&atilde;o -&nbsp; COT</span><br>
+									<span class="style24">Ger&ecirc;ncia de Opera&ccedil;&atilde;o do Sistema -
+										DOS</span></strong></td>
+						</tr>
+					</table>
+
+
+				</td>
+			</tr>
+			<tr>
+				<td class="style3" colspan="2" style="height: 72px">
+					<strong><a id="dataHoje"></a></strong><br>
+				</td>
+				<td class="style3" colspan="2" style="height: 72px"><strong>Engenheiro de Tempo Real</strong></td>
+				<td class="style3" colspan="2" style="height: 72px"></td>
+				<td valign="middle" class="style3" colspan="2" style="height: 72px"><strong>Supervisor do Turno</strong>
+				</td>
+				<td colspan="2" style="height: 72px"></td>
+			</tr>
+			<tr>
+				<td style="height: 23px" class="style3" rowspan="2" colspan="2"><strong>
+						<p id="hora_turno"></p>
+					</strong></td>
+				<td style="height: 23px" class="style3" rowspan="2" colspan="2"><strong>
+
+
+
+						<img id="myImage" src="01_desc.jpg" style="width:75px"></strong></td>
+				<td style="height: 37px" class="style4" colspan="2"></td>
+				<td style="height: 23px" valign="middle" class="style3" rowspan="2" colspan="2"><strong>
+
+
+						<img id="myimgsup" src="01_desc.jpg" style="width:75px"></strong></td>
+				<td style="height: 23px" rowspan="2" colspan="2"></td>
+			</tr>
+			<tr>
+				<td style="height: 23px; width: 70px;" class="style18">&nbsp;</td>
+				<td style="height: 23px; width: 70px;" class="style19">&nbsp;</td>
+			</tr>
+			<tr>
+				<td class="style3" colspan="2" style="height: 8px"></td>
+				<td class="style3" colspan="2" style="height: 8px"><strong>
+						<p id="nome_engenheiro"></p><br><a id="obs_engenheiro"></strong></a>
+						<br><a id="cel_engenheiro"></a>
+				</td>
+				<td class="style5" style="height: 8px"></td>
+				<td class="style17"></td>
+				<td valign="middle" class="style3" colspan="2" style="height: 8px"><strong>
+						<p id="nome_supervisor"></p><br>Tel:2588-0033
+					</strong>
+					<br>WA:99981-2378</td>
+				<td colspan="2" style="height: 8px"></td>
+			</tr>
+			<tr>
+				<td class="style3" rowspan="2" style="width: 70px"></td>
+				<td class="style10" style="width: 70px"></td>
+				<td colspan="2" class="style11"></td>
+				<td style="height: 30px" class="style9"></td>
+				<td style="height: 30px" class="style8"></td>
+				<td colspan="2" class="style11"></td>
+				<td style="width: 70px" class="style11"></td>
+				<td rowspan="2" style="width: 70px"></td>
+			</tr>
+			<tr>
+				<td class="style14" style="width: 70px"></td>
+				<td style="width: 70px" class="style15"></td>
+				<td style="width: 70px" class="style14"></td>
+				<td style="height: 30px" class="style15"></td>
+				<td style="height: 30px" class="style14"></td>
+				<td style="width: 70px" class="style15"></td>
+				<td style="width: 70px" class="style14"></td>
+				<td style="width: 70px" class="style15"></td>
+			</tr>
+			<tr>
+				<td class="style3" colspan="2" style="height: 45px"><strong>
+						<p>Operador 1</p>
+					</strong></td>
+				<td class="style3" colspan="2" style="height: 45px"><strong>
+						<p>Operador 2</p>
+					</strong></td>
+				<td class="style3" colspan="2" style="height: 45px"><strong>
+						<p>Operador 3</p>
+					</strong></td>
+				<td class="style3" colspan="2" style="height: 45px"><strong>
+						<p>Operador 4</p>
+					</strong></td>
+				<td class="style3" colspan="2" style="height: 45px"><strong>
+						<p>Operador 5</p>
+					</strong></td>
+			</tr>
+			<tr>
+				<td class="style3" colspan="2"><strong>
+						<img id="myImage01" src="01_desc.jpg" style="width:75px"></strong></td>
+				<td class="style3" colspan="2"><strong>
+						<img id="myImage02" src="01_desc.jpg" style="width:75px"></strong></td>
+				<td class="style3" colspan="2"><strong>
+						<img id="myImage03" src="01_desc.jpg" style="width:75px"></strong></td>
+				<td class="style3" colspan="2"><strong>
+						<img id="myImage04" src="01_desc.jpg" style="width:75px"></strong></td>
+				<td class="style3" colspan="2"><strong>
+						<img id="myImage05" src="01_desc.jpg" style="width:75px"></strong></td>
+			</tr>
+			<tr>
+				<td class="style3" colspan="2" style="height: 50px">
+					<strong>
+						<p id="nome_operador_01"></p>
+					</strong>
+				</td>
+				<td class="style3" colspan="2" style="height: 50px">
+					<strong>
+						<p id="nome_operador_02"></p>
+					</strong>
+				</td>
+				<td class="style3" colspan="2" style="height: 50px">
+					<strong>
+						<p id="nome_operador_03"></p>
+					</strong>
+				</td>
+				<td class="style3" colspan="2" style="height: 50px">
+					<strong>
+						<p id="nome_operador_04"></p>
+					</strong>
+				</td>
+				<td class="style3" colspan="2" style="height: 50px">
+					<strong>
+						<p id="nome_operador_05"></p>
+					</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="style3" colspan="2" style="height: 50px">Tel: 2588-0035</td>
+				<td class="style3" colspan="2" style="height: 50px">Tel: 2588-0066</td>
+				<td class="style3" colspan="2" style="height: 50px">Tel: 2583-8022</td>
+				<td class="style3" colspan="2" style="height: 50px">Tel: 2583-8050</td>
+				<td class="style3" colspan="2" style="height: 50px">Tel: 2211-4466</td>
+			</tr>
+
+		</table>
+
+		<table style="width: 717px; height: 10px" align="center" cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="style25">*Telefones celulares somente para contato n&atilde;o operacional.</td>
+			</tr>
+		</table>
+
+
+
+		<br>
+
+
+
+		&nbsp;
+		<br />
+		&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+		<script>
+			function myFunction() {
+
+				//var folder = "assets\\img\\equipe\\";
+				var folder = "";
+
+				var today = new Date();
+				document.getElementById("dataHoje").innerHTML = today.toLocaleDateString();
+
+				var tur = document.getElementById("turno").value;
+				document.getElementById("hora_turno").innerHTML = tur
+
+				var eng = document.getElementById("engenheiro").value;
+				document.getElementById('myImage').src = folder + eng;
+
+				switch (eng) {
+					case '4003964.jfif': document.getElementById("nome_engenheiro").innerHTML = "Diogo Fran&ccedil;a";
+						break;
+					case '4010916.jfif': document.getElementById("nome_engenheiro").innerHTML = "Iago Rocha";
+						break;
+					case '4008025.jfif': document.getElementById("nome_engenheiro").innerHTML = "Josué Silva";
+						break;
+					case '4002703.jfif': document.getElementById("nome_engenheiro").innerHTML = "Nayara Madeira";
+						break;
+					case '4010386.jfif': document.getElementById("nome_engenheiro").innerHTML = "Pedro Ribeiro";
+						break;
+					case '01_desc.jpg': document.getElementById("nome_engenheiro").innerHTML = "Indispon&iacute;vel";
+						break;
+				}
+
+				switch (eng) {
+					case '4003964.jfif': document.getElementById("cel_engenheiro").innerHTML = "Cel: (21) 99957-5036";
+						break;
+					case '4010916.jfif': document.getElementById("cel_engenheiro").innerHTML = "Cel: (21) 98515-1301";
+						break;
+					case '4008025.jfif': document.getElementById("cel_engenheiro").innerHTML = "Cel: (21) 98924-1362";
+						break;
+					case '4002703.jfif': document.getElementById("cel_engenheiro").innerHTML = "Cel: (21) 96468-0246";
+						break;
+					case '4010386.jfif': document.getElementById("cel_engenheiro").innerHTML = "Cel: (21) 99175-5158";
+						break;
+					case '01_desc.jpg': document.getElementById("cel_engenheiro").innerHTML = "";
+						break;
+				}
+
+				switch (eng) {
+					case '4003964.jfif': document.getElementById("obs_engenheiro").innerHTML = "Tel: 2588-0036";
+						break;
+					case '4010916.jfif': document.getElementById("obs_engenheiro").innerHTML = "Tel: 2588-0036";
+						break;
+					case '4008025.jfif': document.getElementById("obs_engenheiro").innerHTML = "Tel: 2588-0036";
+						break;
+					case '4002703.jfif': document.getElementById("obs_engenheiro").innerHTML = "Tel: 2588-0036";
+						break;
+					case '4010386.jfif': document.getElementById("obs_engenheiro").innerHTML = "Tel: 2588-0036";
+						break;
+					case '01_desc.jpg': document.getElementById("obs_engenheiro").innerHTML = "";
+						break;
+				}
+
+
+				var sup = document.getElementById("supervisor").value;
+				document.getElementById('myimgsup').src = folder + sup;
+				switch (sup) {
+					case '01_desc.jpg': document.getElementById("nome_supervisor").innerHTML = "Indispon&iacute;vel";
+						break;
+					case '3148580.jfif': document.getElementById("nome_supervisor").innerHTML = "Almeida";
+						break;
+					case '3133834.jfif': document.getElementById("nome_supervisor").innerHTML = "Gerson";
+						break;
+					case '3149420.png': document.getElementById("nome_supervisor").innerHTML = "Levi";
+						break;
+					case '3133389.jfif': document.getElementById("nome_supervisor").innerHTML = "M&aacute;rcio";
+						break;
+					case '3151174.jfif': document.getElementById("nome_supervisor").innerHTML = "Renato";
+						break;
+				}
+
+
+				var aj1 = document.getElementById("operador1").value;
+				document.getElementById('myImage01').src = folder + aj1;
+				switch (aj1) {
+					case '01_desc.jpg': document.getElementById("nome_operador_01").innerHTML = "Indispon&iacute;vel";
+						break;
+					case '3148580.jfif': document.getElementById("nome_operador_01").innerHTML = "Almeida";
+						break;
+					case '4002353.jfif': document.getElementById("nome_operador_01").innerHTML = "Brito";
+						break;
+					case '4003154.jfif': document.getElementById("nome_operador_01").innerHTML = "Carlos Eduardo";
+						break;
+					case '4008452.png': document.getElementById("nome_operador_01").innerHTML = "Cleyton";
+						break;
+					case '4001677.jfif': document.getElementById("nome_operador_01").innerHTML = "Correia";
+						break;
+					case '4010261.jfif': document.getElementById("nome_operador_01").innerHTML = "Daniel";
+						break;
+					case '4002048.jfif': document.getElementById("nome_operador_01").innerHTML = "Erique";
+						break;
+					case '4005712.jfif': document.getElementById("nome_operador_01").innerHTML = "Everton";
+						break;
+					case '3133834.jfif': document.getElementById("nome_operador_01").innerHTML = "Gerson";
+						break;
+					case '4002309.jfif': document.getElementById("nome_operador_01").innerHTML = "Gimenes";
+						break;
+					case '4009760.jfif': document.getElementById("nome_operador_01").innerHTML = "Leonardo";
+						break;
+					case '3149420.png': document.getElementById("nome_operador_01").innerHTML = "Levi";
+						break;
+					case '3133389.jfif': document.getElementById("nome_operador_01").innerHTML = "M&aacute;rcio";
+						break;
+					case '4003446.jfif': document.getElementById("nome_operador_01").innerHTML = "Naciff";
+						break;
+					case '4010458.jfif': document.getElementById("nome_operador_01").innerHTML = "Patrick";
+						break;
+					case '3151174.jfif': document.getElementById("nome_operador_01").innerHTML = "Renato";
+						break;
+					case '4008024.jfif': document.getElementById("nome_operador_01").innerHTML = "Silva";
+						break;
+				}
+
+
+
+				var aj2 = document.getElementById("operador2").value;
+				document.getElementById('myImage02').src = folder + aj2;
+				switch (aj2) {
+					case '01_desc.jpg': document.getElementById("nome_operador_01").innerHTML = "Indispon&iacute;vel";
+						break;
+					case '3148580.jfif': document.getElementById("nome_operador_01").innerHTML = "Almeida";
+						break;
+					case '4002353.jfif': document.getElementById("nome_operador_01").innerHTML = "Brito";
+						break;
+					case '4003154.jfif': document.getElementById("nome_operador_01").innerHTML = "Carlos Eduardo";
+						break;
+					case '4008452.png': document.getElementById("nome_operador_01").innerHTML = "Cleyton";
+						break;
+					case '4001677.jfif': document.getElementById("nome_operador_01").innerHTML = "Correia";
+						break;
+					case '4010261.jfif': document.getElementById("nome_operador_01").innerHTML = "Daniel";
+						break;
+					case '4002048.jfif': document.getElementById("nome_operador_01").innerHTML = "Erique";
+						break;
+					case '4005712.jfif': document.getElementById("nome_operador_01").innerHTML = "Everton";
+						break;
+					case '3133834.jfif': document.getElementById("nome_operador_01").innerHTML = "Gerson";
+						break;
+					case '4002309.jfif': document.getElementById("nome_operador_01").innerHTML = "Gimenes";
+						break;
+					case '4009760.jfif': document.getElementById("nome_operador_01").innerHTML = "Leonardo";
+						break;
+					case '3149420.png': document.getElementById("nome_operador_01").innerHTML = "Levi";
+						break;
+					case '3133389.jfif': document.getElementById("nome_operador_01").innerHTML = "M&aacute;rcio";
+						break;
+					case '4003446.jfif': document.getElementById("nome_operador_01").innerHTML = "Naciff";
+						break;
+					case '4010458.jfif': document.getElementById("nome_operador_01").innerHTML = "Patrick";
+						break;
+					case '3151174.jfif': document.getElementById("nome_operador_01").innerHTML = "Renato";
+						break;
+					case '4008024.jfif': document.getElementById("nome_operador_01").innerHTML = "Silva";
+						break;
+				}
+				
+				var aj3 = document.getElementById("operador3").value;
+				document.getElementById('myImage03').src = folder + aj3;
+				switch (aj3) {
+					case '01_desc.jpg': document.getElementById("nome_operador_01").innerHTML = "Indispon&iacute;vel";
+						break;
+					case '3148580.jfif': document.getElementById("nome_operador_01").innerHTML = "Almeida";
+						break;
+					case '4002353.jfif': document.getElementById("nome_operador_01").innerHTML = "Brito";
+						break;
+					case '4003154.jfif': document.getElementById("nome_operador_01").innerHTML = "Carlos Eduardo";
+						break;
+					case '4008452.png': document.getElementById("nome_operador_01").innerHTML = "Cleyton";
+						break;
+					case '4001677.jfif': document.getElementById("nome_operador_01").innerHTML = "Correia";
+						break;
+					case '4010261.jfif': document.getElementById("nome_operador_01").innerHTML = "Daniel";
+						break;
+					case '4002048.jfif': document.getElementById("nome_operador_01").innerHTML = "Erique";
+						break;
+					case '4005712.jfif': document.getElementById("nome_operador_01").innerHTML = "Everton";
+						break;
+					case '3133834.jfif': document.getElementById("nome_operador_01").innerHTML = "Gerson";
+						break;
+					case '4002309.jfif': document.getElementById("nome_operador_01").innerHTML = "Gimenes";
+						break;
+					case '4009760.jfif': document.getElementById("nome_operador_01").innerHTML = "Leonardo";
+						break;
+					case '3149420.png': document.getElementById("nome_operador_01").innerHTML = "Levi";
+						break;
+					case '3133389.jfif': document.getElementById("nome_operador_01").innerHTML = "M&aacute;rcio";
+						break;
+					case '4003446.jfif': document.getElementById("nome_operador_01").innerHTML = "Naciff";
+						break;
+					case '4010458.jfif': document.getElementById("nome_operador_01").innerHTML = "Patrick";
+						break;
+					case '3151174.jfif': document.getElementById("nome_operador_01").innerHTML = "Renato";
+						break;
+					case '4008024.jfif': document.getElementById("nome_operador_01").innerHTML = "Silva";
+						break;
+				}
+
+
+				var aj4 = document.getElementById("operador4").value;
+				document.getElementById('myImage04').src = folder + aj4;
+				switch (aj4) {
+					case '01_desc.jpg': document.getElementById("nome_operador_01").innerHTML = "Indispon&iacute;vel";
+						break;
+					case '3148580.jfif': document.getElementById("nome_operador_01").innerHTML = "Almeida";
+						break;
+					case '4002353.jfif': document.getElementById("nome_operador_01").innerHTML = "Brito";
+						break;
+					case '4003154.jfif': document.getElementById("nome_operador_01").innerHTML = "Carlos Eduardo";
+						break;
+					case '4008452.png': document.getElementById("nome_operador_01").innerHTML = "Cleyton";
+						break;
+					case '4001677.jfif': document.getElementById("nome_operador_01").innerHTML = "Correia";
+						break;
+					case '4010261.jfif': document.getElementById("nome_operador_01").innerHTML = "Daniel";
+						break;
+					case '4002048.jfif': document.getElementById("nome_operador_01").innerHTML = "Erique";
+						break;
+					case '4005712.jfif': document.getElementById("nome_operador_01").innerHTML = "Everton";
+						break;
+					case '3133834.jfif': document.getElementById("nome_operador_01").innerHTML = "Gerson";
+						break;
+					case '4002309.jfif': document.getElementById("nome_operador_01").innerHTML = "Gimenes";
+						break;
+					case '4009760.jfif': document.getElementById("nome_operador_01").innerHTML = "Leonardo";
+						break;
+					case '3149420.png': document.getElementById("nome_operador_01").innerHTML = "Levi";
+						break;
+					case '3133389.jfif': document.getElementById("nome_operador_01").innerHTML = "M&aacute;rcio";
+						break;
+					case '4003446.jfif': document.getElementById("nome_operador_01").innerHTML = "Naciff";
+						break;
+					case '4010458.jfif': document.getElementById("nome_operador_01").innerHTML = "Patrick";
+						break;
+					case '3151174.jfif': document.getElementById("nome_operador_01").innerHTML = "Renato";
+						break;
+					case '4008024.jfif': document.getElementById("nome_operador_01").innerHTML = "Silva";
+						break;
+				}
+
+
+				var aj5 = document.getElementById("operador5").value;
+				document.getElementById('myImage05').src = folder + aj5;
+				switch (aj5) {
+					case '01_desc.jpg': document.getElementById("nome_operador_01").innerHTML = "Indispon&iacute;vel";
+						break;
+					case '3148580.jfif': document.getElementById("nome_operador_01").innerHTML = "Almeida";
+						break;
+					case '4002353.jfif': document.getElementById("nome_operador_01").innerHTML = "Brito";
+						break;
+					case '4003154.jfif': document.getElementById("nome_operador_01").innerHTML = "Carlos Eduardo";
+						break;
+					case '4008452.png': document.getElementById("nome_operador_01").innerHTML = "Cleyton";
+						break;
+					case '4001677.jfif': document.getElementById("nome_operador_01").innerHTML = "Correia";
+						break;
+					case '4010261.jfif': document.getElementById("nome_operador_01").innerHTML = "Daniel";
+						break;
+					case '4002048.jfif': document.getElementById("nome_operador_01").innerHTML = "Erique";
+						break;
+					case '4005712.jfif': document.getElementById("nome_operador_01").innerHTML = "Everton";
+						break;
+					case '3133834.jfif': document.getElementById("nome_operador_01").innerHTML = "Gerson";
+						break;
+					case '4002309.jfif': document.getElementById("nome_operador_01").innerHTML = "Gimenes";
+						break;
+					case '4009760.jfif': document.getElementById("nome_operador_01").innerHTML = "Leonardo";
+						break;
+					case '3149420.png': document.getElementById("nome_operador_01").innerHTML = "Levi";
+						break;
+					case '3133389.jfif': document.getElementById("nome_operador_01").innerHTML = "M&aacute;rcio";
+						break;
+					case '4003446.jfif': document.getElementById("nome_operador_01").innerHTML = "Naciff";
+						break;
+					case '4010458.jfif': document.getElementById("nome_operador_01").innerHTML = "Patrick";
+						break;
+					case '3151174.jfif': document.getElementById("nome_operador_01").innerHTML = "Renato";
+						break;
+					case '4008024.jfif': document.getElementById("nome_operador_01").innerHTML = "Silva";
+						break;
+				}
+			}
+		</script>
+
+	</div>
+
+</body>
+
+</html>
